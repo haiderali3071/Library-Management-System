@@ -1,6 +1,5 @@
 # Library-Management-System
-This is a full fledge Library Management System, it includes all functionality which one can expect from a good library management system. This is developed using Java technology with object oriented software design and model view controller architecture. You can view wiki to see system's interfaces quickly 
-Welcome to the Library-Management-System wiki!
+This is a full fledge Library Management System, it includes all functionality which one can expect from a good library management system. This is developed using Java technology with object oriented software design and model view controller architecture.
 
 If you want to just use this software for personal use then you can download this code and simply run Library Management System.jar file which you can easily find in the main folder. As this is developed in Java, so this can execute on cross-platforms. If you want to play with code you can easily find it in the "src" folder.
 
